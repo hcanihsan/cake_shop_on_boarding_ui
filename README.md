@@ -1,16 +1,5 @@
-# cake_shop_on_boarding_ui
+![Screenshot_1646440849](https://user-images.githubusercontent.com/70937846/156907478-2cfbfd5a-056f-409f-99e5-de2991c9685e.png)
 
-A new Flutter project.
+![Screenshot_1646440853](https://user-images.githubusercontent.com/70937846/156907484-0387d4d3-205f-4a2a-99dc-6c1f43fa8fd4.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1646440855](https://user-images.githubusercontent.com/70937846/156907486-1923424c-a167-4837-9da3-674243bd34dc.png)
